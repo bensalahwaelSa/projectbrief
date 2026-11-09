@@ -4,6 +4,18 @@ A standalone marketing intake website with editable Samsung PowerPoint export.
 Includes project description, agency responsibilities, campaign strategy, KPI
 planning, inspiration links and media, and separate internal budget fields.
 
+## Update the existing projectbrief site
+
+Repository: https://github.com/bensalahwaelsa/projectbrief
+Website: https://bensalahwaelsa.github.io/projectbrief/
+
+Replace the existing `index.html` with this package's `index.html` and commit
+to the branch used by GitHub Pages. The current update adds stronger slide
+highlights, Measure of success / KPI objective in the form and deck, excludes
+Objective category and proposal/presentation milestones from the PPTX, and
+adds an End of Document closing slide. The standard brief has 10 slides.
+References and long answers can add pages before the final closing slide.
+
 ## Publish with GitHub Pages
 
 1. Create a GitHub repository, for example `marketing-brief-builder`.
