@@ -13,8 +13,9 @@ Replace the existing `index.html` with this package's `index.html` and commit
 to the branch used by GitHub Pages. The current update adds stronger slide
 highlights, Measure of success / KPI objective in the form and deck, excludes
 Objective category and proposal/presentation milestones from the PPTX, and
-adds an End of Document closing slide. The standard brief has 10 slides.
-References and long answers can add pages before the final closing slide.
+adds an End of Document closing slide. The Samsung corporate layout uses spacious
+slides with one strong focal point. Supporting content and long answers can add
+detail slides before the final closing slide, preserving the full brief.
 
 ## Publish with GitHub Pages
 
